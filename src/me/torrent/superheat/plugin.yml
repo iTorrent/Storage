@@ -1,0 +1,14 @@
+name: Superheat
+main: me.torrent.superheat.Superheat
+version: 1.4
+description: >
+             Superheat.
+commands:
+  superheat:
+    description: Superheat
+    usage: superheat
+  sh:
+    description: Sh
+    usage: sh
+
+
